@@ -1,0 +1,22 @@
+{
+  "name": "TriplePlusPushPlugin",
+  "description": "ChangeIconsForNativeAndroid",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Triplebg/icon.plugin.git"
+  },
+  "cordova": {
+    "id": "phonegap-plugin-push",
+    "platforms": [
+      "android",
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap",
+    "cordova-android",
+  ],
+  "author": "TripleBg Team",
+  "license": "MIT",
+}
