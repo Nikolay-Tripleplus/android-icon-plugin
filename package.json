@@ -1,0 +1,22 @@
+{
+  "name": "icon.plugin",
+  "version": "1.0.0",
+  "description": "Change Icons for native android devices",
+  "main": "IconPlugin.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triplebg/icon.plugin.git"
+  },
+  "keywords": [
+    "icon"
+  ],
+  "author": "TripleBG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triplebg/icon.plugin/issues"
+  },
+  "homepage": "https://github.com/Triplebg/icon.plugin#readme"
+}
