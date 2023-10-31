@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Triplebg/icon.plugin.git"
+    "url": "git+https://github.com/Nikolay-Tripleplus/android-icon-plugin.git"
   },
   "keywords": [
     "icon"
@@ -16,7 +16,7 @@
   "author": "TripleBG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Triplebg/icon.plugin/issues"
+    "url": "https://github.com/Nikolay-Tripleplus/android-icon-plugin/issues"
   },
-  "homepage": "https://github.com/Triplebg/icon.plugin#readme"
+  "homepage": "https://github.com/Nikolay-Tripleplus/android-icon-plugin"
 }
